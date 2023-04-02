@@ -1,5 +1,5 @@
 
-# Health Valut
+# Health Vault
 
 ## Table of Contents
  1. [Problem Statement](#problem-statement)
